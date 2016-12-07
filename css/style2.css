@@ -1,0 +1,22 @@
+.leftPanel{
+    background-color: darkcyan;
+    height: 100%;
+}
+
+
+.leftPanel input{
+    margin-bottom: 20px;
+}
+
+.leftPanel button {
+    background-color: burlywood;
+    border: 0;
+    border-radius: 0;
+}
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.textBold{
+    font-weight: bolder;
+}

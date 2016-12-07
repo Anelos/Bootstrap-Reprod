@@ -1,0 +1,59 @@
+body {
+    background-color: #DBE5E6;
+}
+#nom {
+    padding-top: 10px;
+    padding-left: 10px;
+    font-weight: bolder;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    color: #FFF !important;
+}
+.photo {
+    display: block;
+    margin: 0 auto;
+}
+nav {
+    background-color: #3B5998 !important;
+}
+.nav.navbar-nav.navbar-right li a {
+    color: #FFF;
+}
+input[type="text"] {
+    background-color: #FFF !important;
+    color: #444 !important;
+}
+.subtitle {
+    font-style: italic;
+}
+li {
+    list-style: none;
+    list-style-position: outside;
+}
+.glyphicon-home {
+    color: #FFF !important;
+}
+i {
+    color: #444;
+}
+.jumbotron {
+    padding-bottom: 0px !important;
+    padding-top: 10px !important;
+}
+.row {
+    overflow: hidden;
+}
+#picture {
+    padding: 0;
+    margin: 0;
+}
+.navbar-nav > li {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.navbar-right > li {
+    display: inline-block;
+    margin-top: 4px;
+}
